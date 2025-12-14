@@ -11,7 +11,7 @@ import (
 )
 
 const (
-	HOST                         = "https://api.nextcaptcha.com"
+	HOST                         = "https://api.next-captcha.com"
 	TIMEOUT                      = 45 * time.Second
 	PENDING_STATUS               = "pending"
 	PROCESSING_STATUS            = "processing"
